@@ -22,7 +22,11 @@
 
 ## 📸 软件截图 | Screenshots
 
+<img width="1511" height="950" alt="Image" src="https://github.com/user-attachments/assets/960362e7-2f2d-4c2d-b8e4-1520d6c83800" />
 
+![Image](https://github.com/user-attachments/assets/01b52aab-58e3-485c-a9aa-231d29dfadd4)
+
+![Image](https://github.com/user-attachments/assets/95d1a6dd-9dc2-4a1e-ac20-edacfcd97cd5)
 
 
 **主界面与操作指引**
